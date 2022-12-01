@@ -15,14 +15,14 @@
 
 1.	Настройка игрового поля 
 
-_______![1](https://user-images.githubusercontent.com/119228138/204775784-e05d0377-f99b-436c-a62a-2ba1d8e03300.png)
+      ![1](https://user-images.githubusercontent.com/119228138/204775784-e05d0377-f99b-436c-a62a-2ba1d8e03300.png)
 
-_______Рис 9.1 Игровое поле
+      Рис 9.1 Игровое поле
 
-_______![3](https://user-images.githubusercontent.com/119228138/204775820-e77047da-f02e-4875-9101-a56162e63ae2.png)
+     ![3](https://user-images.githubusercontent.com/119228138/204775820-e77047da-f02e-4875-9101-a56162e63ae2.png)
 
  
-_______Рис 9.2 Настройка игрового поля 
+      Рис 9.2 Настройка игрового поля 
 
 ```2.	Скрипт Block
 
@@ -243,35 +243,35 @@ public class Node : MonoBehaviour
 ```
 5.	Настройка объекта GameManager
  
-_______![4](https://user-images.githubusercontent.com/119228138/204775870-52020dd3-d8aa-482b-ba39-da7bc82910f3.png)
-_______![5](https://user-images.githubusercontent.com/119228138/204775897-aaf28b20-e3ec-4b5f-a3a4-03f8d1350ffb.png)
+       ![4](https://user-images.githubusercontent.com/119228138/204775870-52020dd3-d8aa-482b-ba39-da7bc82910f3.png)
+       ![5](https://user-images.githubusercontent.com/119228138/204775897-aaf28b20-e3ec-4b5f-a3a4-03f8d1350ffb.png)
  
-_______Рисунки 9.3 и 9.4 Настройка объекта GameManager
+       Рисунки 9.3 и 9.4 Настройка объекта GameManager
 
 6.	Настройка компонента Canvas
 
-_______![6](https://user-images.githubusercontent.com/119228138/204776156-998481fa-4103-4e29-8998-7cbccef8c208.png)
+       ![6](https://user-images.githubusercontent.com/119228138/204776156-998481fa-4103-4e29-8998-7cbccef8c208.png)
 
-_______Рис.9.5  Настройка компонента Canvas
+       Рис.9.5  Настройка компонента Canvas
 
 7.	Настройка компонентов  WinScreen и LoseScreen  (дочерние объекты Canvas)
  
-_______![7](https://user-images.githubusercontent.com/119228138/204776189-3498336c-f194-485d-a444-7322a91ca43f.png)
+       ![7](https://user-images.githubusercontent.com/119228138/204776189-3498336c-f194-485d-a444-7322a91ca43f.png)
 
  
-_______Рис. 9.6 Настройка WinScreen
+       Рис. 9.6 Настройка WinScreen
 
-_______![8](https://user-images.githubusercontent.com/119228138/204776271-1fc4d1de-db5f-4a27-bf15-fe7bbf0d3600.png)
+       ![8](https://user-images.githubusercontent.com/119228138/204776271-1fc4d1de-db5f-4a27-bf15-fe7bbf0d3600.png)
 
 
-_______Рис. 9.7 Настройка LoseScreen
+       Рис. 9.7 Настройка LoseScreen
 
 8.	Настройка EventSystem
 
- _______![9](https://user-images.githubusercontent.com/119228138/204776322-d498f6aa-5f84-4bd5-b064-90629866450e.png)
+       ![9](https://user-images.githubusercontent.com/119228138/204776322-d498f6aa-5f84-4bd5-b064-90629866450e.png)
 
  
-_______Рис. 9.8 Настройка EventSystem
+       Рис. 9.8 Настройка EventSystem
 
 Вывод: В ходе проделанной работы - была разработанна игра 2048
 [Новая сжатая ZIP-папка.zip](https://github.com/Kramler3/LR9-10/files/10135228/ZIP-.zip)
